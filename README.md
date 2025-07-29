@@ -4,7 +4,7 @@
 
 ### Insights
 
-# SKUs for the upcoming season are largely sourced from primary nodes or 1 regional node, with 52% of unique SKUs on-hand at 0 regional nodes and 20% of unique SKUs on-hand at only 1 regional node.
+* SKUs for the upcoming season are largely sourced from primary nodes or 1 regional node, with 52% of unique SKUs on-hand at 0 regional nodes and 20% of unique SKUs on-hand at only 1 regional node.
 
 ### Recommendations
 #
