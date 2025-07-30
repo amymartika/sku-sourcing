@@ -48,6 +48,7 @@ status as (
         active_indicator
     from 
         product_status
+    
     where 
         country_id = 'US'
 ), 
@@ -76,6 +77,7 @@ product as (
         max(p.first_product_offer_date) as fpod
     from 
         demand_list as d
+    
     left join
         line_plan as p
     on 
