@@ -76,18 +76,18 @@ product as (
         max(d.gender_id) as gender, 
         max(p.first_product_offer_date) as fpod
     from 
-        demand_list as d
+        demand_plan as d
     
     left join
-        line_plan as p
+        product_plan as p
     on 
         d.product_id = p.product_id
         
     where
-        customer_id = '1234567'
-        and channel = 'Digital'
-        and contract_type = 'REG'
-        and left(demand_id) not like '7%'
+        d.customer_id = '1234567'
+        and d.channel = 'Digital'
+        and d.contract_type = 'REG'
+        and left(d.demand_id) not like '7%'
         
     group by 
         1
