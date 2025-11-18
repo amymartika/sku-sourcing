@@ -16,7 +16,7 @@
 ### Executive Summary
 
 <p align = "center"> 
-<img src = ""/>
+<img src = "https://github.com/amymartika/sku-sourcing/blob/main/SKU%20Sourcing%20ERD%20-%20Page%201.png"/>
 </p> 
 
 ### Insights Deep Dive
