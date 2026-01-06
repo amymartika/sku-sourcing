@@ -1,6 +1,6 @@
 # SKU Sourcing Dashboard
 
-* **Tools:** SQL, Tableau
+* **Tools:** SQL (Snowflake), Tableau
 * **Project Type:** Data Visualization
 
 ## Table of Contents
